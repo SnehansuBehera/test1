@@ -9,3 +9,4 @@ print("bye")  # This line is a duplicate and can be removed
 
 print("kya hua")
 print("Kuch nahi")
+print("hosh mein ho")
