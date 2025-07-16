@@ -8,3 +8,4 @@ print("bye")  # This line is a duplicate and can be removed
 print("bye")  # This line is a duplicate and can be removed
 
 print("kya hua")
+print("Kuch nahi")
