@@ -1,3 +1,1 @@
-hello
-
-bye
+print("hello")
