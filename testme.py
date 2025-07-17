@@ -1,8 +1,3 @@
 print("hello")
 print("world")
 print("Not so good")
-print("goodbye")
-print("This is a test file.")
-print("Adding more content to test file.")
-print("Final line of the test file.")
-print("This is a test file.")
